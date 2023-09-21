@@ -1,0 +1,18 @@
+.nav a.active {
+    background-image: linear-gradient(to right, rgb(75, 181, 99), rgb(3, 156, 123));
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.nav a {
+    padding: 9px;
+    border-radius: 10px;
+
+}
+
+.nav a:hover {
+    background-color: darkslategrey;
+    transition: .6s;
+    color: white;
+
+}

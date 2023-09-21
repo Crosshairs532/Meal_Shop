@@ -1,0 +1,8 @@
+.immm:hover img {
+    scale: 1.02;
+    transition: .6s;
+}
+
+img {
+    transition: .6s;
+}

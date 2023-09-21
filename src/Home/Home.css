@@ -1,0 +1,8 @@
+.home {
+    background-image: url('../../public/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.avif'), linear-gradient(to top, black, rgb(169, 169, 169));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+    font-family: 'dancing', cursive;
+}
